@@ -45,3 +45,4 @@ loadMoreButton.addEventListener('click', () => {
         loadPokemonItens(offset, limit)
     }
 })
+// fazendo teste de add pelo vs code 
